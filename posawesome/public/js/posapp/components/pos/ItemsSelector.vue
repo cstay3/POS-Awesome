@@ -19,7 +19,7 @@
             autofocus
             outlined
             color="indigo"
-            :label="frappe._('Search Items')"
+            :label="frappe._('Search Items TEST123')"
             hint="Search by item code, serial number, batch no or barcode"
             background-color="white"
             hide-details
